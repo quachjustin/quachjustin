@@ -22,9 +22,6 @@ I'm Justin, a developer from New York.
  ![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)
 </p>
 
-<br>
-
-
 ## 📫 How to reach me: <a href="mailto:justinquach11214@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 ## 🌐 Socials:
