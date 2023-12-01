@@ -25,9 +25,9 @@ I'm Justin, a developer from New York.
 <br>
 
 
-📫 How to reach me: [justinquach11214@gmail.com](url)
+📫 How to reach me: justinquach11214@gmail.com
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/justinquach7) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/justin-quach-a8069b222/) 
 
 
 <!--
